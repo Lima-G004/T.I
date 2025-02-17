@@ -6,8 +6,7 @@
 // Siga os comentários para implementar cada parte do desafio.
 //Teste larissa
 
-int main() {
-    int código da cidade;
+
     
 
     return 0;
